@@ -49,6 +49,6 @@ en.ja-ossプロジェクト内では上記の書式ガイドを設けていま�
 
 ## ライセンス・クレジット
 
-本ドキュメントは、https://developer.chrome.com/extensions/で公開されているものを翻訳したドキュメントです。原文は[Chrome Extension](https://developer.chrome.com/extensions/)にあります。
+本ドキュメントは、[Chrome Extension](https://developer.chrome.com/extensions/)で公開されているものを翻訳したドキュメントです。  
 
-Chrome Extensionのライセンスを引き継ぎ、すべて[Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/)とします。
+Chrome Extensionのライセンスを引き継ぎ、すべて[Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/)とします。  
