@@ -1,0 +1,1 @@
+# [Developer's Guide](https://developer.chrome.com/extensions/devguide.html)

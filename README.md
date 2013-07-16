@@ -20,9 +20,9 @@ Pull Request・Issue・ご寄稿・ご指摘、いずれも歓迎しています
 これらに関して詳しくは[こちらを参照してください](https://github.com/enja-oss/README/wiki/Review-and-Pull-Request-Flow)。
 特に監訳を依頼する予定の方は必ず目を通しておいてください。
 
-本プロジェクトでは、 @studiomohawk が監訳者です。監訳を希望する方は@マーク付きで監訳依頼をおこなってください。
+本プロジェクトでは、 @Layzie が監訳者です。監訳を希望する方は@マーク付きで監訳依頼をおこなってください。
 
-例: @studiomohawk 監訳お願いします。
+例: @Layzie 監訳お願いします。
 
 **また翻訳に慣れている方は是非、[監訳者リストに記入してください](https://github.com/enja-oss/README/issues/5)。**
 
